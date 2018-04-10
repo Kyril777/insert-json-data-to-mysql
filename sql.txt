@@ -1,0 +1,10 @@
+// MySQL Data Table
+CREATE TABLE IF NOT EXISTS `test_site`.`studentjsondata` (
+`id` INT(11) NOT NULL ,
+`name` VARCHAR(50) NOT NULL ,
+`major` VARCHAR(6) NOT NULL ,
+`roomnumber` VARCHAR(255) NOT NULL ,
+`dorm` VARCHAR(100) NOT NULL ,
+`telephone` VARCHAR(50) NOT NULL ,
+`email` VARCHAR(255) NOT NULL ,
+PRIMARY KEY (`id`)) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
