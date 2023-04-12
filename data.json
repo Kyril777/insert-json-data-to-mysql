@@ -8,7 +8,7 @@
       "dorm": "Cohagen",
       "telephone": "8565553693"
     },
-    "email": "cwray@prsu@edu"
+    "email": "cwray@prsu.edu"
   },
   {
     "id":"5588624",
@@ -19,7 +19,7 @@
       "dorm": "Ghent",
       "telephone": "8565558723"
     },
-    "email": "smclellan@prsu@edu"
+    "email": "smclellan@prsu.edu"
   },
   {
     "id":"9728633",
@@ -30,7 +30,7 @@
       "dorm": "Cohagen",
       "telephone": "8565552924"
     },
-    "email": "aksalkind@prsu@edu"
+    "email": "aksalkind@prsu.edu"
   },
   {
     "id":"5719466",
@@ -41,7 +41,7 @@
       "dorm": "Ghent",
       "telephone": "8565556999"
     },
-    "email": "sfeeley@prsu@edu"
+    "email": "sfeeley@prsu.edu"
   },
   {
     "id":"8775512",
@@ -52,7 +52,7 @@
       "dorm": "Cohagen",
       "telephone": "8565553693"
     },
-    "email": "omoodey@prsu@edu"
+    "email": "omoodey@prsu.edu"
   },
   {
     "id":"4242731",
@@ -63,6 +63,17 @@
       "dorm": "College Road",
       "telephone": "8565559146"
     },
-    "email": "achawla@prsu@edu"
-  }
+    "email": "achawla@prsu.edu"
+  },
+  {
+    "id":"33513640",
+    "name":"Kopaz, Kate",
+    "major":"Russian Studies",
+    "address":{
+      "roomnumber": "1E",
+      "dorm": "College Road",
+      "telephone": "8565550237"
+    },
+    "email": "yopaz@prsu.edu"
+  }  
 ]
